@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+
+.cajita{
+    width: 70px;
+    height: 70px;
+    border: solid black 1px;
+    background-color: #808080;
+    margin: 10px 0px;
+}
+
+
+.contenedor{
+    width: 240px;
+    height: 95px;
+    border: solid black 1px;
+    background-color: #808080;
+    padding-left: 10px;
+
+}
+
+
+.block{
+    display: block;
+}
+
+
+.inline-block{
+    display: inline-block; 
+
+}
+
+
+
+
